@@ -1,3 +1,5 @@
+attribution.txt taken from [Moonscraper-Chart-Editor](https://github.com/FireFox2000000/Moonscraper-Chart-Editor/blob/master/LICENSE)
+
 www.un4seen.com
 
 BASS 2.4
