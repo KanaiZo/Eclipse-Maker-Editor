@@ -1,24 +1,16 @@
-> **⚠️ NOTE: THIS IS NOT THE APPLICATION PROGRAM, THESE ARE THE SOURCE FILES. ⚠️**
->
-> If you are looking to download Moonscraper Chart Editor please see the
-> [releases page](https://github.com/FireFox2000000/Moonscraper-Chart-Editor/releases).
+# Eclipse-Maker-Chart-Editor
+A fork of [Moonscraper](https://github.com/FireFox2000000/Moonscraper-Chart-Editor) built for platforms including mobile, with tiny quality-of-life features.
 
-## About
-Moonscraper Chart Editor is a song editor for Guitar Hero style rhythm games mainly intended to support the custom song creation for games such as Guitar Hero, Clone Hero and Rock Band.
+> ⚠️ Eclipse Maker is not affiliated with Moonscraper Chart Editor, nor is it officially supported by FireFox2000000 or any of it's contributors. Report Eclipse Maker issues in the [Eclipse Maker Discord server](https://discord.com/invite/33gZuRejpq).
 
-Trailer- https://www.youtube.com/watch?v=G8Qd32TZz4A
-
-### Games that use Moonscraper code:
-- Clone Hero (https://clonehero.net/)
-
-### Games that use Moonscraper as a song editor:
-- Everhood (https://store.steampowered.com/app/1229380/Everhood/)
+NOTE: I am a new programmer, and this is the project I will use to learn from.
+This software is currently using leftover assets from Moonscraper not created by me. These will be replaced as development continues.
 
 ## Compiling from Source
 Follow the instructions below for your desired platform to build and run from source.
 
 ### All Platforms
-1. Download and install Unity 2018.4.23f1
+1. Download and install Unity 2022.3.13f1
 2. Run Unity and open the project folder with it
 3. Use the menu option Build Processes > Build Full Releases
   - Note that 7zip and Inno Setup are required to be installed to build distributables and installers respectively. 
@@ -34,12 +26,6 @@ The application requires the following dependencies to be installed:
 A [`PKGBUILD` file for Arch Linux](aur/PKGBUILD) is included in the repository.
 
 Other distribution packagers can use the `PKGBUILD` file for reference.
-
-## Who do I talk to?
-* Alexander "FireFox" Ong
-* Discord (Easiest link to contact me through)- https://discord.gg/bjsKTwd
-* YouTube- https://www.youtube.com/user/FireFox2000000
-* Twitter- https://twitter.com/FireFox2000000
 
 ## License
 - See [attribution.txt](https://github.com/FireFox2000000/Moonscraper-Chart-Editor/blob/master/Moonscraper%20Chart%20Editor/Assets/Documentation/attribution.txt) for third party libraries and resources included in this repository.
