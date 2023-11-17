@@ -23,7 +23,7 @@ The application requires the following dependencies to be installed:
 - `ffmpeg sdl2 libx11-6 libgtk-3-0`
 - `libbass` (included with the build)
 
-A [`PKGBUILD` file for Arch Linux](aur/PKGBUILD) is included in the repository.
+A [`PKGBUILD` file for Arch Linux](aur/PKGBUILD) is included in the repository but is currently pointed at Moonscraper. This will be changed as soon as possible.
 
 Other distribution packagers can use the `PKGBUILD` file for reference.
 
